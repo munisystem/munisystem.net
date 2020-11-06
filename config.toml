@@ -1,0 +1,4 @@
+baseURL = "https://munisystem.net/"
+languageCode = "jp-ja"
+title = "munisystem.net"
+theme = "simpleness"
